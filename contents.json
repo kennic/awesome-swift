@@ -5970,6 +5970,11 @@
       "category": "games",
       "description": "A view controller for chess boards",
       "homepage": "https://github.com/fulldecent/FDChessboardView"
+    }, {
+      "title": "NKButton",
+      "category": "button",
+      "description": "An UIButton subclass that fills the lack of functionalities of UIButton, includes some powerful features and convenience syntax.",
+      "homepage": "https://github.com/kennic/NKButton"
     }
   ]
 }
